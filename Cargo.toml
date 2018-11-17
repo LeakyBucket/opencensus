@@ -1,0 +1,6 @@
+[package]
+name = "opencensus"
+version = "0.1.0"
+authors = ["Glen Holcomb <MentalLabor@gmail.com>"]
+
+[dependencies]
