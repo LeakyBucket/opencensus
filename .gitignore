@@ -1,0 +1,2 @@
+# Ignore the language server files
+target/rls
