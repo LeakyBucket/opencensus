@@ -1,3 +1,9 @@
+pub mod stats;
+pub mod trace;
+pub mod tags;
+pub mod context;
+pub mod common;
+
 #[cfg(test)]
 mod tests {
     #[test]
