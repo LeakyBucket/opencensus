@@ -1,3 +1,5 @@
+extern crate uuid;
+
 pub mod stats;
 pub mod trace;
 pub mod tags;
