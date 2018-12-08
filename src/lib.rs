@@ -1,3 +1,5 @@
+extern crate fixedbitset;
+extern crate rand;
 extern crate uuid;
 
 pub mod stats;

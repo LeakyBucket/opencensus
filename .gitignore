@@ -1,2 +1,4 @@
+# Ignore Pijul data
+.pijul/
 # Ignore the language server files
 target/rls
